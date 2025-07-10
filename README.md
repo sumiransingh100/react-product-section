@@ -1,12 +1,11 @@
 # React + Vite
 # A responsive React product section component using CSS, ideal for showcasing products in e-commerce and portfolio projects.
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# Preview
+<img width="902" alt="Amazon Product React" src="https://github.com/user-attachments/assets/f713698d-5970-4788-8d66-b84edcc4f04d" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Responsive Preview
+<img width="449" alt="Screenshot 2025-07-10 124851" src="https://github.com/user-attachments/assets/3f44b369-2331-492c-bb61-080ef719ec06" />
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Mobile Responsive
+![screencapture-localhost-5173-2025-07-10-12_49_20](https://github.com/user-attachments/assets/52012800-188f-4a6b-a45c-6a71305a24e5)
