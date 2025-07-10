@@ -1,5 +1,5 @@
 # React + Vite
-
+# A responsive React product section component using CSS, ideal for showcasing products in e-commerce and portfolio projects.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
